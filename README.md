@@ -1,2 +1,2 @@
-# Programiranje
-DZ
+# Programiranje 2
+Blokovi naredbi
